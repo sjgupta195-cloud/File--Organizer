@@ -2,3 +2,10 @@ PDFs/
 Documents/
 Images/
 Text/
+
+*.pdf
+*.docx
+*.txt
+*.jpg
+*.jpeg
+*.png
